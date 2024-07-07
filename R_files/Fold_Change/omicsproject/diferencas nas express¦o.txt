@@ -1,0 +1,24 @@
+diferencas nas expressão
+funçao e relacao com aberracoes
+
+- prefis de expressão genica
+ips nao sao epigeneticamente identicas as esc devido a reprogramaçao
+endoderm, derivada de eps e ips differencas de expressao (sao distinguiveis=): segrede diferencas de expressao geneticas que tem de haver com as celulas de origem (que tem q ver com a aberracao: condiciona a expressao de genes que vao crair a expressao a diferenciacao de expressao)
+
+can we "link" direcgly or idendircgly, the epigenetic diferences to the expression diferences in in expression)
+
+analise:
+need
+destiguir endodeme eps and ips (clustering: sao distintas)
+analise de expressao diferencial (fold)
+analise de rede (entre os genes aberrados e diferenciados)
+
+1. é possivel distinguir?
+( e dimensao das diferencas (cluster and principal component analysis - introduce other (throphecto) do understand the dimension of the difference/separation)
+
+exploratory data analysis (clustering)
+adjusted p-value (pode n ser significiativo - lower the standards)
+define a (threshold) cut-off (find community standard=
+
+1. os 9 genes estao presentes?
+2. os 9 genes estao a ser influenciados pelos que temos? - network
